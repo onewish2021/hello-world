@@ -1,3 +1,3 @@
 # hello-world
-a just another reponsitory
-I'm learning GitHub. Haha
+a just another reponsitory.
+I'm learning GitHub. Haha.
